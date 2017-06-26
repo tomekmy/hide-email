@@ -1,2 +1,9 @@
-# hide-email
-jQuery plugin to hide email address from spam bots
+Usage example:
+
+```
+<div id="address_email">e-mail: </div>
+
+<script type="text/javascript">
+        $('#address_email').hideEmail('user', 'domain.com');
+</script>
+```
