@@ -9,7 +9,7 @@ Usage example:
 ```
 
 You can add optional third parameter.
-Third parameter should be any HTML tag. It just be surrounded by a:mailto tag.
+Third parameter can be any HTML tag or any text. It just be surrounded by a:mailto tag.
 
 ```
 <div id="address_email"></div>
